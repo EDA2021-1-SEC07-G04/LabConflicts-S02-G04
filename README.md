@@ -29,3 +29,7 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Estudiante 1--Santiago Rodriguez Cruz
 Estudiante 2-- Juan Pablo Tatis Goenaga
+
+
+## Santiago Rodriguez Cruz - s.rodriguez52@uniandes.edu.co-202013371
+## Juan Pablo Tatis Goenaga- j.tatis@uniandes.edu.co, 202022217
